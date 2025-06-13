@@ -3,8 +3,8 @@
         <div class="space-y-2 text-center md:text-left">
             <h1 class="text-5xl md:text-6xl font-medium">Find a job that suits your interest & skills.</h1>
             <NuxtLink to="/" class="mt-6 flex items-center gap-2">
-                <Input placeholder="Search for job..." class="w-full md:w-96" />
-                <Button>Search a job</Button>
+                <Input placeholder="Search for job..." class="w-full flex-3/5 md:flex-5/5" />
+                <Button class="flex-2/5">Search a job</Button>
             </NuxtLink>
             <p class="text-neutral-600 text-sm font-light">Popular : UI Designer, UX Researcher, Software Engineer, Admin</p>
         </div>
@@ -49,7 +49,7 @@
             <CategoryCard>
                 <PencilRuler class="w-12 h-12 text-blue-800" />
                 <h3 class="font-medium text-xl mt-2">Design</h3>
-                <p class="text-neutral-600 font-light">
+                <p class="text-neutral-600 font-light flex gap-3">
                     189 Jobs
                     <MoveRight />
                 </p>
