@@ -1,5 +1,3 @@
-import { Laptop } from "lucide-vue-next";
-
 export const dataCategories = [
     {
         id: 1,
