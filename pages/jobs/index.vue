@@ -2,7 +2,7 @@
     <div>
         <h1 class="text-2xl font-semibold text-neutral-800">Job For UI/UX Designer</h1>
         <!-- Form section -->
-        <div class="flex gap-3 my-6 p-2 border border-[#4640DE] rounded-md">
+        <div class="flex flex-col md:flex-row gap-3 my-6 p-2 border border-[#4640DE] rounded-md">
             <Input placeholder="Search" />
             <Input placeholder="City" />
             <ButtonSecondary>

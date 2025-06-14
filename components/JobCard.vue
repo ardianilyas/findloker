@@ -1,6 +1,6 @@
 <template>
     <NuxtLink to="/jobs/detail">
-        <div class="p-6 bg-white border-[0.5px] border-gray-300 rounded-md shadow-md space-y-2">
+        <div class="p-6 bg-white hover:bg-gray-50 transition-all ease-in-out border-[0.5px] border-gray-300 rounded-md shadow-md space-y-2">
             <h4 class="text-xl font-medium"> {{ title }} </h4>
             <div class="flex items-center gap-3">
                 <p class="text-[10px] font-medium uppercase text-green-800 bg-green-200 px-2 py-1 rounded-sm inline-flex"> {{ type }} </p>

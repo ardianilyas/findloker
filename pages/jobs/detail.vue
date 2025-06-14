@@ -6,7 +6,7 @@
                 <h2 class="text-2xl text-neutral-800 font-bold">UI/UX Designer</h2>
                 <div class="flex gap-2 items-center">
                     <p>at Socles</p>
-                    <p class="text-[10px] font-medium uppercase text-green-800 bg-green-200 px-2 py-1 rounded-sm inline-flex"> Full Time </p>
+                    <p class="text-[10px] font-medium uppercase text-green-800 bg-green-200 px-2 py-1 rounded-sm inline-flex"> Part Time </p>
                 </div>
             </div>
         </div>
