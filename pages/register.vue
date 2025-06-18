@@ -19,7 +19,9 @@
                     <p class="font-light text-sm">Already have an account ? <NuxtLink to="/login" class="text-blue-500 hover:text-blue-600 transition-all ease-in-out underline underline-offset-4">Login</NuxtLink> </p>
                 </div>
                 <div>
-                    <Button class="w-full">Login</Button>
+                    <NuxtLink to="/">
+                        <Button class="w-full">Register</Button>
+                    </NuxtLink>
                 </div>
             </form>
         </div>
